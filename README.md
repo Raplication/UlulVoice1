@@ -1,5 +1,4 @@
 # UlulVoice1
-{ useState } from 'react';
 
 const UlulVoiceWebsite = () => {
   const [activeSection, setActiveSection] = useState('home');
