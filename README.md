@@ -1,5 +1,5 @@
 # UlulVoice1
-import React, { useState } from 'react';
+{ useState } from 'react';
 
 const UlulVoiceWebsite = () => {
   const [activeSection, setActiveSection] = useState('home');
